@@ -2,7 +2,7 @@
   "name": "portfolio-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/satisshhhhhh/portfolio-management",
+  "homepage": "https://satisshhhhhh.github.io/portfolio-management",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
     "@fortawesome/free-solid-svg-icons": "^6.5.2",
